@@ -1,0 +1,12 @@
+{
+  "name": "practica_formativa",
+  "version": "0.0.0",
+  "type":"module",
+  "description": "ejercicio practico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iván González",
+  "license": "ISC"
+}
